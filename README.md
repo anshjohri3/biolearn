@@ -30,22 +30,8 @@ We have created a web app. that can be used by students to learn with the help o
 
 ---
 
-## 🛠 [MLH] Best Usage of CI/CD sponsored by CircleCI
 
-We are using CircleCI for continuous integration and deployment. CircleCI is a free service that provides continuous integration and deployment for your applications. It’s a great way to test our code, run our tests, and deploy our code.
 
----
-
-## 🤼 [MLH] Most Creative Use of GitHub
-
-- We are using GitHub for collaboration on code.
-- Enabling the CI/CD for our code.
-
----
-
-## 🌐 [MLH] Best Domain Name from Domain.com
-
-- biolearn.tech
 
 ---
 
